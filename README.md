@@ -43,7 +43,7 @@ def max_marks(list1):
 
 ```
 ## Sample Input and Output
- 
+ ![output](./img/max_marks1.jpg)
 
 
 ## Output:
